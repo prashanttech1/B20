@@ -1,6 +1,6 @@
 ﻿
 
 
-int c = 400;
+int c = 200;
 
 Console.WriteLine(c);
