@@ -1,6 +1,6 @@
 ﻿
 
 
-int j = 20;
+int c = 400;
 
-Console.WriteLine(j);
+Console.WriteLine(c);
