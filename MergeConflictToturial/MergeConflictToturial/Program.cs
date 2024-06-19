@@ -1,6 +1,6 @@
 ﻿
 
 
-int Age = 400;
+int Age = 200;
 
 Console.WriteLine(Age);
